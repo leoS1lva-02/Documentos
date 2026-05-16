@@ -6,8 +6,6 @@ Repositório com meus documentos profissionais, incluindo currículo, portfólio
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
-  <title>Meus Documentos</title>
-
   <style>
     body {
       font-family: Arial, sans-serif;
